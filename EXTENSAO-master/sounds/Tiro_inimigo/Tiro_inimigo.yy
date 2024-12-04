@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Tiro_inimigo",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.332208,
+  "name":"Tiro_inimigo",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sons/sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Tiro_inimigo.mp3",
+  "type":0,
+  "volume":0.61,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Sm_ataquebasico",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.593469,
+  "name":"Sm_ataquebasico",
+  "parent":{
+    "name":"sfx",
+    "path":"folders/Sons/sfx.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sm_ataquebasico.mp3",
+  "type":0,
+  "volume":1.0,
+}
