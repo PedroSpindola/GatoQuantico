@@ -1,3 +1,10 @@
+if(global.pause){
+	hspd=0;
+	vspd=0;
+	image_speed = 0;
+	exit;
+}
+image_speed = 1;
 event_inherited();
 
 vspd=0;

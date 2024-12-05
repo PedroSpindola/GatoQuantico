@@ -2,6 +2,7 @@
 // Você pode escrever seu código neste editor
 
 // Inherit the parent event
+if(global.pause)exit;
 event_inherited();
 if(place_meeting(x,y,Obj_bala)){
 	

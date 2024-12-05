@@ -1,5 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
+if(global.pause)exit;
 if (total_weapons > 0) {
     var spawn_x, spawn_y;
 

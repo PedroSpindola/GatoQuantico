@@ -26,7 +26,6 @@ function inimigos_dano(pontos){
 	if(vida<=0){
 		instance_destroy();
 		instance_create_layer(x,y, "Instances", Obj_moedas);
-		
 		}
 	}
 

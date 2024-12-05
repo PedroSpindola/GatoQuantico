@@ -1,3 +1,4 @@
+
 function PlayerStateFree(){
 key_jump = keyboard_check(ord("W"));
 key_right = keyboard_check(ord("D"));

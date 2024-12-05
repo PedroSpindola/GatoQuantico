@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_bolapelo",
-    "path":"sprites/Sprite_bolapelo/Sprite_bolapelo.yy",
+    "name":"Spr_armaTeste",
+    "path":"sprites/Spr_armaTeste/Spr_armaTeste.yy",
   },
   "spriteMaskId":null,
   "visible":true,
