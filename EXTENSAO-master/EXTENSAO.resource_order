@@ -41,6 +41,7 @@
     {"name":"grupo_spr_tiles","order":12,"path":"folders/Sprites/grupo_spr_tiles.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"dataBase","order":19,"path":"objects/dataBase/dataBase.yy",},
     {"name":"Obj_bala","order":3,"path":"objects/Obj_bala/Obj_bala.yy",},
     {"name":"Obj_botao_pai","order":2,"path":"objects/Obj_botao_pai/Obj_botao_pai.yy",},
     {"name":"Obj_botaoCarregar","order":3,"path":"objects/Obj_botaoCarregar/Obj_botaoCarregar.yy",},
@@ -68,7 +69,6 @@
     {"name":"Obj_spawn_inimigo","order":5,"path":"objects/Obj_spawn_inimigo/Obj_spawn_inimigo.yy",},
     {"name":"Obj_tiro_morcego","order":4,"path":"objects/Obj_tiro_morcego/Obj_tiro_morcego.yy",},
     {"name":"Obj_transicao","order":2,"path":"objects/Obj_transicao/Obj_transicao.yy",},
-    {"name":"dataBase","order":19,"path":"objects/dataBase/dataBase.yy",},
     {"name":"Room1","order":4,"path":"rooms/Room1/Room1.yy",},
     {"name":"Room1a","order":1,"path":"rooms/Room1a/Room1a.yy",},
     {"name":"Room1b","order":2,"path":"rooms/Room1b/Room1b.yy",},

@@ -59,11 +59,12 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"EXTENSAO",
   "resources":[
     {"id":{"name":"Ft_menu","path":"fonts/Ft_menu/Ft_menu.yy",},},
+    {"id":{"name":"dataBase","path":"objects/dataBase/dataBase.yy",},},
     {"id":{"name":"Obj_arma_pai","path":"objects/Obj_arma_pai/Obj_arma_pai.yy",},},
     {"id":{"name":"Obj_bala","path":"objects/Obj_bala/Obj_bala.yy",},},
     {"id":{"name":"Obj_boneco","path":"objects/Obj_boneco/Obj_boneco.yy",},},
@@ -95,7 +96,6 @@
     {"id":{"name":"Obj_spawn_inimigo","path":"objects/Obj_spawn_inimigo/Obj_spawn_inimigo.yy",},},
     {"id":{"name":"Obj_tiro_morcego","path":"objects/Obj_tiro_morcego/Obj_tiro_morcego.yy",},},
     {"id":{"name":"Obj_transicao","path":"objects/Obj_transicao/Obj_transicao.yy",},},
-    {"id":{"name":"dataBase","path":"objects/dataBase/dataBase.yy",},},
     {"id":{"name":"Rm_menu","path":"rooms/Rm_menu/Rm_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room1a","path":"rooms/Room1a/Room1a.yy",},},
