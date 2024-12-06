@@ -8,7 +8,7 @@ state = PlayerStateFree;
 inimigos_atingidos = ds_list_create();
 player_morto = false;
 moedas = 0;
-
+global.pause = false;
 arma = noone;
 
 usa_arma = function(){
