@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Sm_qg",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":49.94612,
+  "name":"Sm_qg",
+  "parent":{
+    "name":"musica",
+    "path":"folders/Sons/musica.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sm_qg.mp3",
+  "type":0,
+  "volume":1.0,
+}
