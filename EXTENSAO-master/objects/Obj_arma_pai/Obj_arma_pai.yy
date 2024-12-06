@@ -2,10 +2,10 @@
   "$GMObject":"",
   "%Name":"Obj_arma_pai",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_arma_pai",
@@ -29,11 +29,11 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"velocidade","filters":[],"listItems":[],"multiselect":false,"name":"velocidade","rangeEnabled":true,"rangeMax":5.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"countdown","filters":[],"listItems":[],"multiselect":false,"name":"countdown","rangeEnabled":true,"rangeMax":2.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.5","varType":0,},
-    {"$GMObjectProperty":"v1","%Name":"bala","filters":[
+    {"$GMObjectProperty":"","%Name":"velocidade","filters":[],"listItems":[],"multiselect":false,"name":"velocidade","rangeEnabled":true,"rangeMax":5.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
+    {"$GMObjectProperty":"","%Name":"countdown","filters":[],"listItems":[],"multiselect":false,"name":"countdown","rangeEnabled":true,"rangeMax":2.0,"rangeMin":0.1,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.5","varType":0,},
+    {"$GMObjectProperty":"","%Name":"bala","filters":[
         "GMObject",
-      ],"listItems":[],"multiselect":false,"name":"bala","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"Obj_bala","path":"objects/Obj_bala/Obj_bala.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Obj_bala","varType":5,},
+      ],"listItems":[],"multiselect":false,"name":"bala","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Obj_bala","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

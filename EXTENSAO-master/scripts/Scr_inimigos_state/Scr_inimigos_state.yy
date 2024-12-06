@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"Scr_inimigos_state",
   "isCompatibility":false,
   "isDnD":false,
