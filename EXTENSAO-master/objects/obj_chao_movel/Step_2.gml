@@ -1,5 +1,4 @@
 var _player = instance_place(x, y-1,Obj_player) 
-
 if(instance_exists(Obj_player)){
 	with(Obj_player){	
 		if (place_meeting(x, y + 1, other.id)){

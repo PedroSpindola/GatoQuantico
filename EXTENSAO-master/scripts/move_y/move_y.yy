@@ -1,9 +1,9 @@
 {
   "$GMScript":"",
-  "%Name":"Scr_musica",
+  "%Name":"move_y",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Scr_musica",
+  "name":"move_y",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

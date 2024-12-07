@@ -75,6 +75,7 @@
     {"name":"RoomQG","order":3,"path":"rooms/RoomQG/RoomQG.yy",},
     {"name":"RoomTeste","order":5,"path":"rooms/RoomTeste/RoomTeste.yy",},
     {"name":"Approach","order":1,"path":"scripts/Approach/Approach.yy",},
+    {"name":"move_y","order":5,"path":"scripts/move_y/move_y.yy",},
     {"name":"Player","order":2,"path":"scripts/Player/Player.yy",},
     {"name":"Salvamento","order":3,"path":"scripts/Salvamento/Salvamento.yy",},
     {"name":"Scr_musica","order":4,"path":"scripts/Scr_musica/Scr_musica.yy",},

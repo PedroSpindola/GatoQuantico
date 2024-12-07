@@ -59,7 +59,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"EXTENSAO",
   "resources":[
@@ -103,6 +103,7 @@
     {"id":{"name":"RoomQG","path":"rooms/RoomQG/RoomQG.yy",},},
     {"id":{"name":"RoomTeste","path":"rooms/RoomTeste/RoomTeste.yy",},},
     {"id":{"name":"Approach","path":"scripts/Approach/Approach.yy",},},
+    {"id":{"name":"move_y","path":"scripts/move_y/move_y.yy",},},
     {"id":{"name":"Player","path":"scripts/Player/Player.yy",},},
     {"id":{"name":"Salvamento","path":"scripts/Salvamento/Salvamento.yy",},},
     {"id":{"name":"Scr_inimigos_state","path":"scripts/Scr_inimigos_state/Scr_inimigos_state.yy",},},
