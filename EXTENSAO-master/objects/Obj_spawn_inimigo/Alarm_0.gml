@@ -1,5 +1,8 @@
 // Evento Alarm[0] de obj_spawn_inimigo
-if(global.pause)exit;
+if (global.pause) {
+    alarm[0] = 1; // Mantém o alarme em espera enquanto pausado
+    exit; // Sai do evento sem executar a lógica
+}
 var center_x = room_width / 2;
 var spawn_x = center_x;
 
